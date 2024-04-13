@@ -1,0 +1,16 @@
+.navbar-brand {
+    font-family: "Whisper", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+html {
+  background-color:black;
+}
+
+body h2{
+  color: white;
+}
+body h6{
+  color: white;
+}
